@@ -1,0 +1,7 @@
+{
+	"URL" : "default youtube URL to download",
+	"WORK" : "YT_Downloads",
+	"OUTPUT" : "Output",
+	"ID" : "<your ID>.apps.googleusercontent.com",
+	"SECRET" : "<your google secret ID>"
+}
